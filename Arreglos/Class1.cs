@@ -12,7 +12,7 @@ namespace Arreglos
         static void Main(string[] args) {
 
             Console.WriteLine("Hola");
-            Console.WriteLine("Hola Gaby");
+            Console.WriteLine("Hola Gaby8");
             
         
         }
